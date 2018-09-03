@@ -52,6 +52,6 @@ def main():
         else:
             print(event.type, event.raw[1:])
 
-
+#trash commit for contributor map lol :P
 if __name__ == '__main__':
     main()
